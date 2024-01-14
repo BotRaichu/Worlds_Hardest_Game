@@ -1,0 +1,99 @@
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.exe
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.deps.json
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.runtimeconfig.json
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.AssemblyReference.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.Form1.resources
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfo.cs
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\refint\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.genruntimeconfig.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP-Fastenbauer\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ref\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.exe
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.deps.json
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.runtimeconfig.json
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.Form1.resources
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfo.cs
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\refint\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.genruntimeconfig.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ref\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.exe
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.deps.json
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.runtimeconfig.json
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.AssemblyReference.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.Form1.resources
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfo.cs
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\refint\ANP_Semesterprojekt.dll
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.genruntimeconfig.cache
+C:\Users\oemer.LAPTOP-I2580UAI\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ref\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.exe
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.deps.json
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.runtimeconfig.json
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.Form1.resources
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfo.cs
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\refint\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.genruntimeconfig.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ref\ANP_Semesterprojekt.dll
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.exe
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.deps.json
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.runtimeconfig.json
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.AssemblyReference.cache
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.Form1.resources
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfo.cs
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\refint\ANP_Semesterprojekt.dll
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.genruntimeconfig.cache
+C:\Users\Kerem\Downloads\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ref\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.exe
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.deps.json
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.runtimeconfig.json
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\bin\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.Form1.resources
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.AssemblyInfo.cs
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\refint\ANP_Semesterprojekt.dll
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.pdb
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ANP_Semesterprojekt.genruntimeconfig.cache
+C:\Users\Ömer\OneDrive - Bundeshandelsakademie und Bundeshandelsschule Bregenz\SemesterprojektMitLVLS\Semesterprojekt\ANP_Semesterprojekt - Kopie\ANP_Semesterprojekt\obj\Debug\net7.0-windows\ref\ANP_Semesterprojekt.dll
